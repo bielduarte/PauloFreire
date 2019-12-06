@@ -1,0 +1,15 @@
+site_name: Paulo freire 
+site_description: documentação do projeto Paulo frere 
+site_author: Gabriel Duarte
+  
+repo_url: 
+
+
+theme:
+  name: readthedocs
+
+nav:
+    - Cadastro: index.md
+
+extra_css:
+   - 'css/extra_css.css'
